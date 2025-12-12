@@ -181,7 +181,9 @@ call script9999.vbs
 pause
 cls
 
-echo 
+echo FIM
+color 4
+echo obrigado por jogar meu jogo tudo que aconteceu aqui foi apenas uma simulacao nada do que voce viu invadiu seu computador nem alterou nenhum arquivo foi feito apenas para te divertir e criar uma experiencia de suspense espero que voce tenha se divertido e que se surpreendido com as pequenas surpresas que preparei para voce lembrando sempre que tudo aqui e seguro e que voce pode jogar quantas vezes quiser sem preocupacao e que a intencao foi apenas entreter e divertir quem se arrisca a explorar o meu mundo virtual e se deixar levar pela historia e pelos sustos que preparei para que voce se envolva completamente na narrativa e aproveite cada momento
 
 
 
